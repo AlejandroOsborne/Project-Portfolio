@@ -1,5 +1,3 @@
-#Project
-
 We built an image recognition model with implementation in python.
 
 Deep learning is a machine learning technique that uses the basic human understanding concept of learn by example. Deep learning is used driverless cars, enabling them to recognize a stop sign, lamppost or human being walking in a pedestrian. It is also used in voice and text recognition. Deep learning is very popular nowadays because the outputs produced are of greater accuracy. In deep learning, the model learns to perform classification tasks directly from images, text, or sound data.
