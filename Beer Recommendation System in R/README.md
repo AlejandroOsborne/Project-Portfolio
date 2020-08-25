@@ -1,0 +1,1 @@
+In This project I'm going to look build a system that can recommend beer to a user based on the ratings they've provided. Before we can get to that however, we need to evaluate the very large data set we will be working with.
